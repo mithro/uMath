@@ -1,8 +1,4 @@
-[![Build Status][travis-img]][travis-repo] [![Coverage Status][coveralls-img]][coveralls-repo]
-[travis-img]:  https://travis-ci.org/AaronKel/uMath.svg?branch=master
-[travis-repo]: https://travis-ci.org/AaronKel/uMath
-[coveralls-img]:  https://coveralls.io/repos/AaronKel/uMath/badge.svg?branch=master
-[coveralls-repo]: https://coveralls.io/r/AaronKel/uMath?branch=master
+[![Build Status](https://travis-ci.org/AaronKel/uMath.svg?branch=master)](https://travis-ci.org/AaronKel/uMath) [![Coverage Status](https://coveralls.io/repos/AaronKel/uMath/badge.svg?branch=master)](https://coveralls.io/r/AaronKel/uMath?branch=master)
 
 <p align="center">
   <a href="https://github.com/AaronKel/uMath/wiki">Wiki</a> |
